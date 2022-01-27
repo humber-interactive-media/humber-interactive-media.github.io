@@ -1,0 +1,15 @@
+.gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
+.gallery-item {
+    border: solid 1px red;
+    /* display: flex; */
+}
+img {
+    width:100%;
+}
+h4 {
+    /* border: solid 1px red; */
+}
